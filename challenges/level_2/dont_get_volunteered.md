@@ -22,18 +22,8 @@ To help yourself get to and from your bunk every day, write a function called an
 
 ### Test cases
 
-**Inputs:**
-```
-(int) src = 19, (int) dest = 36
-```
-**Output:**
-```(int) 1```
+**Inputs:** ```(int) src = 19, (int) dest = 36``` **Output:** ```(int) 1```
 
-**Inputs:**
-```
-(int) src = 0, (int) dest = 1
-```
-**Output:**
-```(int) 3```
+**Inputs:** ```(int) src = 0, (int) dest = 1``` **Output:** ```(int) 3```
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.

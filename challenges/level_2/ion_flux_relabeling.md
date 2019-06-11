@@ -16,8 +16,9 @@ The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect bi
 
 ### Languages
 
-To provide a Java solution, edit Solution.java
-To provide a Python solution, edit solution.py
+> To provide a Java solution, edit Solution.java
+
+> To provide a Python solution, edit solution.py
 
 ### Test cases
 

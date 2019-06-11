@@ -9,6 +9,7 @@ Write a function called solution(s) which takes in a string and returns the deci
 ### Languages
 
 >To provide a Python solution, edit solution.py
+
 >To provide a Java solution, edit Solution.java
 
 ### Test cases

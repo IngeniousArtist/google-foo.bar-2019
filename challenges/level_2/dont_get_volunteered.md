@@ -22,8 +22,8 @@ To help yourself get to and from your bunk every day, write a function called an
 
 **Inputs:**
 ```
-    (int) src = 19
-    (int) dest = 36
+(int) src = 19
+(int) dest = 36
 ```
 **Output:**
 
@@ -31,8 +31,8 @@ To help yourself get to and from your bunk every day, write a function called an
 
 **Inputs:**
 ```
-    (int) src = 0
-    (int) dest = 1
+(int) src = 0
+(int) dest = 1
 ```
 **Output:**
 

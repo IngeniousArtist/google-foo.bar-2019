@@ -24,14 +24,8 @@ To provide a Python solution, edit solution.py
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
-**Input:**
-```solution.solution(3, [7, 3, 5, 1])```
-**Output:**
-```-1,7,6,3```
+**Input:** ```solution.solution(3, [7, 3, 5, 1])``` **Output:** ```-1,7,6,3```
 
-**Input:**
-```solution.solution(5, [19, 14, 28])```
-**Output:**
-```21,15,29```
+**Input:** ```solution.solution(5, [19, 14, 28])``` **Output:** ```21,15,29```
 
-> Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
+Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.

@@ -17,7 +17,6 @@ Write a function called solution(s) which takes in a string and returns the deci
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
-#### Python cases
 **Input:**
 
 ```solution.solution("wrw blf hvv ozhg mrtsg'h vkrhlwv?")```
@@ -33,23 +32,5 @@ Note that it may also be run against hidden test cases not shown here.
 **Output:**
 
 >    Yeah! I can't believe Lance lost his job at the colony!!
-
-#### Java cases
-
-**Input:**
-
-```Solution.solution("Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!")```
-
-**Output:**
-
- >   Yeah! I can't believe Lance lost his job at the colony!!
-
-**Input:**
-
-```Solution.solution("wrw blf hvv ozhg mrtsg'h vkrhlwv?")```
-
-**Output:**
-
- >  did you see last night's episode?
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
